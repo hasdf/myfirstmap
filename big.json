@@ -32,7 +32,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/antifakongress.blogsport.eu"
+                 "value":"https:\/\/google.de"
                 }],
          "type":"tilelayer",
          "visible":true,
